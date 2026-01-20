@@ -7,7 +7,7 @@ group by class
 having count(student)>=5
 
 )
-select class from query
+select class from query;
 
 -- select class from (
 -- select class,count(student) from courses
