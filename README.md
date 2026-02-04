@@ -14,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/karamgajbhiye/SQL/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/karamgajbhiye/SQL/tree/master/1070-product-sales-analysis-iii) |
 | [1321-restaurant-growth](https://github.com/karamgajbhiye/SQL/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/karamgajbhiye/SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/karamgajbhiye/SQL/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
