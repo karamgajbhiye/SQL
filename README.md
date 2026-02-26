@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/karamgajbhiye/SQL/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/karamgajbhiye/SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/karamgajbhiye/SQL/tree/master/1407-top-travellers) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/karamgajbhiye/SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
