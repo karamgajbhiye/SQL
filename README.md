@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/karamgajbhiye/SQL/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/karamgajbhiye/SQL/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/karamgajbhiye/SQL/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/karamgajbhiye/SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/karamgajbhiye/SQL/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/karamgajbhiye/SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/karamgajbhiye/SQL/tree/master/1407-top-travellers) |
