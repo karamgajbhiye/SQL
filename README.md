@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/karamgajbhiye/SQL/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/karamgajbhiye/SQL/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/karamgajbhiye/SQL/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/karamgajbhiye/SQL/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/karamgajbhiye/SQL/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/karamgajbhiye/SQL/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/karamgajbhiye/SQL/tree/master/1148-article-views-i) |
